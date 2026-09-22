@@ -16,9 +16,9 @@ Author: **Dwinfear + ChatGPT**
 ## Preview
 
 ### Before
-
-![Blocked wardrobe before the fix](Preview/Before.png)
+![Blocked wardrobe before the fix](<Preview/Before — blocked wardrobe and baked shadow.png>)
+!(Preview/Before.png)
 
 ### After
-
-![Wardrobe removed and baked shadow repaired](Preview/After.png)
+![Wardrobe removed and baked shadow repaired](<Preview/After — wardrobe removed and baked shadow repaired.png>)
+!(Preview/After.png)
