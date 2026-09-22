@@ -12,3 +12,11 @@ Documentation:
 
 Current release: **1.0.0**  
 Author: **Dwinfear + ChatGPT**
+
+## Preview
+
+### Before
+![Blocked wardrobe before the fix](Preview/before.png)
+
+### After
+![Wardrobe removed and baked shadow repaired](Preview/after.png)
