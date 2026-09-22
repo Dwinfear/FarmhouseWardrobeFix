@@ -1,0 +1,15 @@
+# Build output
+/bin/
+/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code local settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
